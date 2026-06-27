@@ -6,6 +6,13 @@ Built natively in C# targeting **.NET Framework 4.8** (pre-installed on Windows 
 
 ---
 
+<img width="640" height="460" alt="Screenshot 2026-06-27 152428" src="https://github.com/user-attachments/assets/5b81eab5-cd3e-4be2-9a9a-9e6a8a250313" />
+<img width="640" height="460" alt="Screenshot 2026-06-27 152433" src="https://github.com/user-attachments/assets/79edb9a9-6fec-4c55-9bb8-3debc47d399c" />
+<img width="640" height="460" alt="image" src="https://github.com/user-attachments/assets/33cfdd9e-7e28-46d8-adab-948b80119b3d" />
+<img width="640" height="460" alt="Screenshot 2026-06-27 152445" src="https://github.com/user-attachments/assets/4146ea8b-7d1b-46e6-a34d-af2aa15f8206" />
+
+---
+
 ## Features
 
 - **OS Theme Syncing**: Automatically reads the Windows Personalize Registry keys to match the user's active theme:
